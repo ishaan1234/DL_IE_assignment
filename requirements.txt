@@ -1,0 +1,8 @@
+tensorflow
+pickle
+matplotlib.pyplot
+streamlit
+numpy
+pandas
+scikit-learn
+datetime
